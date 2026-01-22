@@ -16,7 +16,7 @@ Google Gemini API를 활용하여 고등학교 수학 문제를 자동으로 생
 1. 저장소를 클론합니다.
    ```bash
    git clone [https://github.com/chan-w00-dev/math-problem-generator-ai.git](https://github.com/chan-w00-dev/math-problem-generator-ai.git)
-'''   
+ 
 
 2. 필요한 라이브러리를 설치합니다.
 ```bash
