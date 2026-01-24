@@ -1,7 +1,7 @@
 import google.generativeai as genai
 
 # [중요] 여기에 API 키를 넣어주세요
-genai.configure(api_key="AIzaSyCzBGCikjyRUyHlpe2JxlkFZGpEs3VCYGc") 
+genai.configure(api_key="GEMINI_API_KEY") 
 
 print("--- 내 API 키로 사용 가능한 모델 목록 ---")
 try:
