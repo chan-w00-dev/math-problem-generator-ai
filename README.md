@@ -20,13 +20,13 @@ Google Gemini API를 활용하여 고등학교 수학 문제를 자동으로 생
 
 2. 필요한 라이브러리를 설치합니다.
 ```bash
-   pip install -r requirements.txt
+  pip install -r requirements.txt
 ```
   실행이 안되면 pip 대신 pip3 입력
   
 3. .env 파일을 생성하고 API 키를 입력합니다.
 ```
-    GEMINI_API_KEY=your_api_key_here
+  GEMINI_API_KEY=your_api_key_here
 ```
 
 4. 앱을 실행합니다.
